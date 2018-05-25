@@ -1,0 +1,7 @@
+C:\Users\herbe\source\repos\SimilutudDeDatos\SimilutudDeDatos\bin\Debug\SimilutudDeDatos.exe.config
+C:\Users\herbe\source\repos\SimilutudDeDatos\SimilutudDeDatos\bin\Debug\SimilutudDeDatos.exe
+C:\Users\herbe\source\repos\SimilutudDeDatos\SimilutudDeDatos\bin\Debug\SimilutudDeDatos.pdb
+C:\Users\herbe\source\repos\SimilutudDeDatos\SimilutudDeDatos\obj\Debug\SimilutudDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\herbe\source\repos\SimilutudDeDatos\SimilutudDeDatos\obj\Debug\SimilutudDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\herbe\source\repos\SimilutudDeDatos\SimilutudDeDatos\obj\Debug\SimilutudDeDatos.exe
+C:\Users\herbe\source\repos\SimilutudDeDatos\SimilutudDeDatos\obj\Debug\SimilutudDeDatos.pdb
